@@ -36,7 +36,7 @@ For privacy and professionalism, member IDs were replaced with anonymized values
 ### Check-Ins by Hour of Day
 This chart shows how check-in volume changes throughout the day and highlights peak usage hours.
 
-![Check-Ins by Hour of Day](main/Check-ins by Hour of Day.png)
+![Check-Ins by Hour of Day](Check-ins by Hour of Day.png)
 
 ### Check-Ins by Day of Week
 This chart compares check-in volume across weekdays to identify the busiest days.
