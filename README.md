@@ -25,12 +25,20 @@ For privacy and professionalism, member IDs were replaced with anonymized values
 4. Analyzed traffic patterns across time of day and weekday
 5. Built Tableau visuals to highlight peak usage trends
 
-## SQL Files
-- `sql/01_prepare_checkin_data.sql` – prepares the cleaned analytical dataset
-- `sql/02_checkins_by_hour.sql` – summarizes check-ins by hour of day
-- `sql/03_checkins_by_day.sql` – summarizes check-ins by day of week
-- `sql/04_checkin_heatmap.sql` – prepares hour-by-day traffic analysis
+## SQL Query
 
+A single SQL query was used to prepare the analytical dataset:
+
+- `sql/01_prepare_checkin_data.sql`
+
+This query:
+- Combines separate date and time fields into a unified check-in timestamp  
+- Cleans and parses time values from string format  
+- Replaces member IDs with anonymized identifiers  
+- Extracts hour-of-day and day-of-week features  
+- Filters data to the most recent 12 months  
+
+The resulting dataset was used in Tableau to analyze check-in patterns and identify peak usage times.
 ## Visuals
 
 ### Check-Ins by Hour of Day
