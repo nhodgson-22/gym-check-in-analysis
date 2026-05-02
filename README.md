@@ -57,6 +57,15 @@ This heatmap shows the concentration of check-ins by both hour of day and day of
 ![Check-In Heatmap](checkin_heatmap.png)
 
 ## Key Insights
-- Check-in activity showed clear peak hours during the day
-- Traffic patterns varied by weekday
-- The busiest periods can help inform staffing and front desk coverage decisions
+
+- Check-in activity shows two clear peak periods during the day: a strong morning peak around 8–10 AM and a second peak in the late afternoon between 4–6 PM.
+- The morning peak (around 8 AM) appears to be the highest point of overall traffic, indicating strong early-day usage.
+- Weekday traffic is significantly higher than weekend traffic, with Monday being the busiest day of the week.
+- Check-in activity gradually declines throughout the week, with the lowest traffic occurring on Sundays.
+- The heatmap shows that weekday mornings and late afternoons are consistently the busiest periods, while midday and evening hours show a noticeable drop in activity.
+  
+ ## Business Implications
+
+- Peak hours (8–10 AM and 4–6 PM) may require increased front desk staffing and floor coverage.
+- Lower traffic during midday and later evening hours may present opportunities for promotions or programming to increase usage.
+- Higher demand earlier in the week suggests scheduling classes and events during these periods could maximize attendance.
