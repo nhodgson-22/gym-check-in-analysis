@@ -54,7 +54,7 @@ This chart compares check-in volume across weekdays to identify the busiest days
 ### Check-In Heatmap
 This heatmap shows the concentration of check-ins by both hour of day and day of week, helping identify the busiest periods for operational planning.
 
-![Check-In Heatmap](visuals/checkin_heatmap.png)
+![Check-In Heatmap](checkin_heatmap.png)
 
 ## Key Insights
 - Check-in activity showed clear peak hours during the day
